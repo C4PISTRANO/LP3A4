@@ -1,0 +1,33 @@
+LP3A5 LINGUAGEM DE PROGRAMAÇÃO 3
+
+PROF WENDEL
+
+Linguagem JAVA
+
+Paradigma programação funcional.
+
+Avaliações 
+P1+P2 30% cada
+
+Exercícios em sala 40%:
+no mesmo dia vale 1
+até 48h 0,75
+até o final de semana 0,5
+até o início da próxima aula 0,25
+
+Bibliografia:
+Código limpo Robert C. Martin
+Java Como programar Deitel
+Programação funcional o'reilly
+
+
+
+Concorrência:
+Dividir o problema em várias tarefas:
+várias threads trabalhando juntas.
+
+
+
+
+
+
