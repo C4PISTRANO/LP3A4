@@ -22,9 +22,27 @@ Programação funcional o'reilly
 
 
 
-Concorrência:
+CONCORRÊNCIA:
 Dividir o problema em várias tarefas:
 várias threads trabalhando juntas.
+
+
+PARALELISMO:
+De tarefas:
+download
+redimensionamento
+salvamento
+
+De dados:
+divisão dos dados
+
+
+São utilizadas classes para trabalhar com concorrência e paralelismo em java
+
+Threads e Interface Runnable.
+
+Exercício teórico:
+
 
 
 
