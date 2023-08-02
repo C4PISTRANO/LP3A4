@@ -1,0 +1,16 @@
+Para o exercício, considere o seguinte link:
+
+https://blog.vepo.dev/posts/java-101-threads
+
+Após a leitura do texto, responda (individualmente) as seguintes questões, submetendo um arquivo de texto no Moodle:
+
+1) Qual a relação entre processos e o sistema operacional, conforme descrito no texto?
+R: O processo é instanciado pelo sistema operacional, tem um ciclo de vida que pode ser finalizado pelo próprio processo ou pelo sistema operacional.
+
+
+2) Para que serve o modificador synchronized?
+R: O synchronized permite que o de counter seja impresso na linha de comando sequencialmente. Ele garante que quando uma thread está executando um método, as outras serão bloqueadas até que a execução seja finalizada.
+
+
+3) Qual a função dos métodos start () e join ()?
+R: Eles servem para controlar uma thread. O start() inicia a execução e o join() bloqueia a thread corrente até que a outra seja finalizada.

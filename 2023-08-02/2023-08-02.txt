@@ -1,0 +1,53 @@
+LP3A5 LINGUAGEM DE PROGRAMAÇÃO 3
+
+PROF WENDEL
+
+Linguagem JAVA
+Eclipse IDE
+
+Paradigma programação funcional.
+
+Avaliações 
+P1+P2 30% cada
+
+Exercícios em sala 40%:
+no mesmo dia vale 1
+até 48h 0,75
+até o final de semana 0,5
+até o início da próxima aula 0,25
+
+Bibliografia:
+Código limpo Robert C. Martin
+Java Como programar Deitel
+Programação funcional o'reilly
+
+
+
+CONCORRÊNCIA:
+Dividir o problema em várias tarefas:
+várias threads trabalhando juntas.
+
+
+PARALELISMO:
+De tarefas:
+download
+redimensionamento
+salvamento
+
+De dados:
+divisão dos dados
+
+
+São utilizadas classes para trabalhar com concorrência e paralelismo em java
+
+Threads e Interface Runnable.
+
+Exercício teórico:
+
+Um processo é um programa rodando na memória. Ele é instanciado pelo sistema operacional e terá seu ciclo de vida até ser encerrado por si mesmo ou pelo próprio sistema operacional. 
+
+
+
+
+
+
