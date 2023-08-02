@@ -14,3 +14,5 @@ R: O synchronized permite que o de counter seja impresso na linha de comando seq
 
 3) Qual a função dos métodos start () e join ()?
 R: Eles servem para controlar uma thread. O start() inicia a execução e o join() bloqueia a thread corrente até que a outra seja finalizada.
+
+

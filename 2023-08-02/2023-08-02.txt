@@ -44,7 +44,7 @@ Threads e Interface Runnable.
 
 Exercício teórico:
 
-Um processo é um programa rodando na memória. Ele é instanciado pelo sistema operacional e terá seu ciclo de vida até ser encerrado por si mesmo ou pelo próprio sistema operacional. 
+*Um processo é um programa rodando na memória. Ele é instanciado pelo sistema operacional e terá seu ciclo de vida até ser encerrado por si mesmo ou pelo próprio sistema operacional. 
 
 
 
