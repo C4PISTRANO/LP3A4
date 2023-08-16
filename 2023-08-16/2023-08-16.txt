@@ -1,3 +1,13 @@
 THREADS
 
+As threads são executadas ao mesmo tempo.
+
+PROBLEMA DE CONCORRÊNCIA E 
+
+Race conditions:
+2 ou mais threads acessam recursos compartilhados
+
+Deadlock
+Lock ordering -> conceito de ordenação
+
 
