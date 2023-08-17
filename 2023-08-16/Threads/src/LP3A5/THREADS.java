@@ -1,17 +1,22 @@
 package LP3A5;
+
 public class THREADS {
 public static void main(String[] args) throws InterruptedException {
+	
 // TODO Auto-generated method stub
 class Counter {
 private int value;
 public void increment() {
 value++;
 }
+
 public int getValue() {
 return value;
 }
 }
+
 // ...
+
 Counter counter = new Counter();
 Runnable task = () -> {
 for (int i = 0; i < 1000; i++) {

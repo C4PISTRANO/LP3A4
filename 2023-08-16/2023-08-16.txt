@@ -10,4 +10,17 @@ Race conditions:
 Deadlock
 Lock ordering -> conceito de ordenação
 
+Algoritmo banqueiro -> pesquisar
+
+Ordenação de recursos:
+Definição de ordem para diminuir a possibilidade de deadlock
+
+Prevenção de deadlock por exclusão mútua:
+
+biblioteca padrão:
+java.utils.concurrent.locks.Lock  -> estrutura de dados
+
+métodos: lock()   unlock()    tryLock()
+
+
 

@@ -3,6 +3,7 @@ package LP3A5;
 public class THREADS {
 class Counter {
 private int value;
+
 public synchronized void increment() {
 value++;
 }
@@ -10,7 +11,7 @@ public int getValue() {
 return value;
 }
 }
-Inicialização das duas threads
+//Inicialização das duas threads
 thread1.start();
 thread2.start();
 // ...
