@@ -40,7 +40,12 @@ Tempo para necessário para executar uma operação (busca de dados).
 
 Semáforos -> utilizados para controlar ofluxo de chamada
 
+----------------------------------------------------------------------
+
 Algoritmo do banqueiro:
 Gerenciamento de recursos da máquina para previnir deadlocks
+
+Possiu 1 vetor e 2 matrizes
+
 
 
