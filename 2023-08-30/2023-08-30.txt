@@ -1,0 +1,46 @@
+Prevenção de DeadLocks
+
+Estruturas de Dados:
+
+Organizar os dados, facilitar manipulação e acesso.
+
+
+Lineares -> 
+
+
+
+
+
+Não Lineares
+
+Algoritmos de ordenação:
+QuickSort
+MergeSort
+
+Array -> organizar dados com indice
+
+Matriz -> organizar dados com indice (Par ordenado i, j)
+
+Pilhas -> Last in - First Out
+
+Filas -> First in - First Out
+
+Listas Ligadas -> 
+
+Ávores -> Estrutura hierárquica com nós
+
+Grafos -> Conjunto de nós (vértices) e arestas que os conectam
+
+
+
+
+Complexidade:
+Tempo para necessário para executar uma operação (busca de dados).
+
+
+Semáforos -> utilizados para controlar ofluxo de chamada
+
+Algoritmo do banqueiro:
+Gerenciamento de recursos da máquina para previnir deadlocks
+
+
