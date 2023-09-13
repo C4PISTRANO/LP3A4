@@ -1,0 +1,7 @@
+Monitores:
+
+1. Acesso controlado
+2.Bloqueio
+3.Desbloqueio
+4.Condição de Verificação
+
