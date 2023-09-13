@@ -5,3 +5,26 @@ Monitores:
 3.Desbloqueio
 4.Condição de Verificação
 
+
+Métodos
+wait()
+notify()
+notifyAll()
+lock()
+unlock()
+
+
+Problema do Produtor - Consumidor
+
+producer > buffer > consumer
+
+buffer = área de armazenamento temporário
+Ex.: audio, vídeo, impressão, jogos de computador, teclado, monitor...
+
+*o buffer tem o tamanho limitado*
+
+
+
+
+
+
