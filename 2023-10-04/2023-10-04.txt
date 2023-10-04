@@ -1,0 +1,14 @@
+Programação Funcional
+
+imperativa  x  declarativo (Java)
+
+
+Imperativo:
+Procedural
+Orientação a Objetos
+
+Programação Funcional:
+teoria das funções
+LISP (List Processing Language)
+Haskell
+Scala, Clojure, F#, Rust e Elixir.
