@@ -1,0 +1,8 @@
+Funções Pura e Funções Impuras.
+
+Efeitos colaterais
+
+Garantir a imutabilidade:
+Quando se cria uma variável externa, devemos manté-la pura.
+
+**Em Java, é possível criar objetos imutáveis usando a palavra-chave final, que torna uma variável constante e não modificável após sua inicialização.
