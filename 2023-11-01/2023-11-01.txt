@@ -15,4 +15,6 @@ Uma função pode ser retornada com resultado de outras funções.
 
 Java -> criou as expressões lambda para trabalhar com interfaces funcionais.
 
+JavaScript -> é multiparadgima
+
 
