@@ -1,0 +1,18 @@
+Funções de primeira classe -> função especial
+
+interfaces funcionais
+
+expressões lambda
+
+exemplos e exercício
+
+
+Armazenar uma função dentro de uma variável.
+Podem ser passadas como argumento para outras funções.
+Uma função pode ser retornada com resultado de outras funções.
+
+*Java não é uma linguagem funcional.
+
+Java -> criou as expressões lambda para trabalhar com interfaces funcionais.
+
+
