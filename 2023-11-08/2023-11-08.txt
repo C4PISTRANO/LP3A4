@@ -1,0 +1,19 @@
+Manipulação
+
+Estrutura de dados -> Guardar uma coleção de elementos
+Tamanho
+Ordenação
+Indexação
+
+Operações Listas:
+Excluir
+
+
+Operações mais sofisticadas
+Concatenação
+Divisão
+Ordenação
+Intercâmbio
+
+Listas x Banco de Dados
+
