@@ -1,0 +1,51 @@
+Manipulação de Listas
+
+Estrutura de dados -> Guardar uma coleção de elementos
+Tamanho
+Ordenação
+Indexação
+
+Operações Listas:
+Excluir
+
+
+Operações mais sofisticadas
+Concatenação
+Divisão
+Ordenação
+Intercâmbio
+
+Listas x Banco de Dados
+Propriedades em comum
+
+Porque manipular??
+Para fazer modificação dentro dos elementos
+
+
+STREAM API -> API JAVA: *(stream = fluxo de operações que podem ser realizados)
+stream
+filter
+sorted
+distinct
+map
+collect
+
+
+Operações Intermediárias:
+
+Operações Terminais:
+produzem um resultado final
+
+Métodos:
+Referencia métodos existentes
+
+Processamento em paralelo:
+Diversos fluxos sendo execuados ao mesmo tempo
+
+map() -> 
+
+PROGRAMAÇÂO FUNCIONAL
+filter() -> filtar uma sequencia
+reduce() -> reduzir uma sequencia
+
+
