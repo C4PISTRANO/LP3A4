@@ -1,4 +1,4 @@
-Manipulação
+Manipulação de Listas
 
 Estrutura de dados -> Guardar uma coleção de elementos
 Tamanho
@@ -41,5 +41,11 @@ Referencia métodos existentes
 
 Processamento em paralelo:
 Diversos fluxos sendo execuados ao mesmo tempo
+
+map() -> 
+
+PROGRAMAÇÂO FUNCIONAL
+filter() -> filtar uma sequencia
+reduce() -> reduzir uma sequencia
 
 
