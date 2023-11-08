@@ -1,7 +1,0 @@
-Funções de primeira classe -> função especial
-
-interfaces funcionais
-
-expressões lambda
-
-exemplos e exercício
